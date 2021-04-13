@@ -1,4 +1,4 @@
-# Leaflet-Challenge
+# Earthquake Visualizations
 
 ## Table of Contents
   * [Introduction](#introduction)
